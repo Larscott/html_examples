@@ -12,7 +12,7 @@ body {
 	max-width: 940px;
 	margin: 0 auto;
 	padding: 0 5%;
-	background-color: white;
+	background-color: #808080;
 }
 
 a { 
@@ -94,7 +94,7 @@ PAGE: PORTFOLIO
 	margin: 0;
 	padding: 5%;
 	font-size: 0.75em;
-	color: #bdc3c7;
+	color: #000;
 }
 
 /*******************
@@ -103,24 +103,23 @@ colors
 
 /* site body */
 body {
-	background-color: #fff;
+	background-color: pink;
 	color: #999;
 }
 
 /* green header */
 header { 
-	background: #6ab47b;
-	border-color: #599a68; 
+	background: #cd5c5c;
 }
 
 /* nav background on mobile */
 nav {
-	background: #599a68;
+	background: #f08080;
 }
 
 /*logo text */
 h1, h2 {
-	color: aqua;
+	color: green;
 }
 
 a {
